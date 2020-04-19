@@ -1,0 +1,9 @@
+nama = input("Input Nama ")
+alamat= input("Input Alamat ")
+DOB= input("Input DOB ")
+print("My name is "  + nama + "," + "I live in " + alamat + "," + "I was born on " + DOB + ".")
+
+#Input Nama Anthony Christian
+Input Alamat Jakarta, Kelapa Gading
+Input DOB 9 Juni
+My name is Anthony Christian,I live in Jakarta, Kelapa Gading,I was born on 9 Juni.#
